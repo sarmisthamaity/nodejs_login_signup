@@ -1,0 +1,34 @@
+{
+  "user": [
+    {
+      "userName": "sarmi",
+      "userpassword": "Sarmistha@45",
+      "profile": {
+        "Description": "i am s student of navgurukul,persuing BCA",
+        "DOB": "20 feb 1999",
+        "HOBBY": "playing,gardening,travelling",
+        "Gender": "female"
+      }
+    },
+    {
+      "userName": "swati",
+      "userpassword": "Swati@56",
+      "Profile": {
+        "Description": "would be backend developer",
+        "DOB": "28 oct 1999",
+        "HOBBY": "coocking,travelling,smoking",
+        "Gender": "female"
+      }
+    },
+    {
+      "userName": "mahi",
+      "userpassword": "Parveen@12",
+      "Profile": {
+        "Description": "sweet girl,persuing graduation",
+        "DOB": "1 nov 2000",
+        "HOBBY": "travelling,danceing",
+        "Gender": "female"
+      }
+    }
+  ]
+}
